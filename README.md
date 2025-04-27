@@ -49,10 +49,9 @@ Use these placeholders in your SMS templates:
 ## Screenshots 📸
 
 ![Settings Page](assets/screenshot-1.png)  
+![Settings Page](assets/screenshot-2.png)  
+![Settings Page](assets/screenshot-3.png)  
 *Q-SMS Plugin Settings Page*
-
-![Order Notification](assets/screenshot-2.png)  
-*Example SMS Received by Customer*
 
 ## Support 💬
 
